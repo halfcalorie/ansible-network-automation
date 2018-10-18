@@ -31,25 +31,31 @@
 "0	LINE	0
 	          - snmp-server community ansible-private RW
 ""1	LINE	0
-	    
+	
 "2	LINE	0
+	.gitconfig
+"3	LINE	0
+	    
+"4	LINE	0
 	
 "-	CHAR	0
 	 name: RESTORE CONFIG
 
 # File marks:
-'0  14  10  ~/networking-workshop/restore_config.yml
-'1  1  0  ~/networking-workshop/restore_config.
-'2  30  8  ~/networking-workshop/backup.yml
-'3  9  110  ~/networking-workshop/restore_config.yml
-'4  208  1  ~/networking-workshop/backup/rtr1.config
-'5  4  0  ~/networking-workshop/backup/rtr1.config
-'6  1  0  ~/networking-workshop/backup/rtr1
-'7  17  53  ~/networking-workshop/backup.yml
-'8  12  28  ~/networking-workshop/backup.yml
-'9  25  29  ~/networking-workshop/router_configs.yml
+'0  2  0  ~/.gitignore
+'1  1  0  ~/.gitignore
+'2  14  10  ~/networking-workshop/restore_config.yml
+'3  1  0  ~/networking-workshop/restore_config.
+'4  30  8  ~/networking-workshop/backup.yml
+'5  9  110  ~/networking-workshop/restore_config.yml
+'6  208  1  ~/networking-workshop/backup/rtr1.config
+'7  4  0  ~/networking-workshop/backup/rtr1.config
+'8  1  0  ~/networking-workshop/backup/rtr1
+'9  17  53  ~/networking-workshop/backup.yml
 
 # Jumplist (newest first):
+-'  2  0  ~/.gitignore
+-'  1  0  ~/.gitignore
 -'  14  10  ~/networking-workshop/restore_config.yml
 -'  1  0  ~/networking-workshop/restore_config.
 -'  9  6  ~/networking-workshop/restore_config.yml
@@ -146,9 +152,16 @@
 -'  17  6  ~/networking-workshop/gather_ios_data.yml
 -'  25  6  ~/networking-workshop/gather_ios_data.yml
 -'  1  0  ~/networking-workshop/gather_ios_data.
--'  34  8  ~/networking-workshop/gather_ios_data.yml
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	"	2	0
+	.	3	0
+	+	1	3
+	+	3	0
+	+	2	9
+	+	3	0
 
 > ~/networking-workshop/restore_config.yml
 	"	14	10
